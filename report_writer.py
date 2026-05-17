@@ -1,14 +1,14 @@
-def build_report(student_name, score, status , year):
+def build_report(student_name, score, status, year):
     report = f"""Student Performance Report
 
 Student Name: {student_name}
 Score: {score}
-Status: {status}
+Result & Advice: {status}
 year_of_graduation: {year}
 ------------------------------------------------------------------------------------------------------
 |   For universities                                                                                 |
 |   who struggle to restrict applications to recent graduates and filter out older cohorts           |
-|    we built a graduation year validation feature                                                   |
+|    we built a graduation year validation feature                                                    |
 |    so that they can automatically validate and accept students based on a custom year they define  | 
 ------------------------------------------------------------------------------------------------------
 """
