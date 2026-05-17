@@ -1,0 +1,12 @@
+Student Performance Report
+
+Student Name: nasser
+Score: 89.0
+Status: Excellent
+year_of_graduation: 2025
+------------------------------------------------------------------------------------------------------
+|   For universities                                                                                 |
+|   who struggle to restrict applications to recent graduates and filter out older cohorts           |
+|    we built a graduation year validation feature                                                   |
+|    so that they can automatically validate and accept students based on a custom year they define  | 
+------------------------------------------------------------------------------------------------------
